@@ -1,0 +1,21 @@
+{
+  "name": "konami-coffee",
+  "version": "0.0.1",
+  "author": "Piotrek Dubiel <piotr.dubiel@polidea.com>",
+  "description": "",
+  "scripts": {
+    "test": "cake test"
+  },
+  "dependencies": {
+    "coffee-script": "*"
+  },
+  "devDependencies": {
+    "chai": "~1.4.2",
+    "mocha": "*",
+    "mocha-phantomjs": "*",
+    "phantomjs": "*"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
+}
