@@ -3,6 +3,8 @@ konami-coffee
 
 Simple lib for detecting konami code sequence on the website
 
+[![Build Status](https://travis-ci.org/piotrdubiel/konami-coffee.png)](https://travis-ci.org/piotrdubiel/konami-coffee)
+
 Example
 -------
 
